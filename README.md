@@ -1,4 +1,4 @@
-This is an Interactive Resume built so as to demonstrate and exteend in future , as to how I would want my resume to look like - dynamic and lively!
+This is an Interactive Resume built so as to demonstrate and extend in future , as to how I would want my resume to look like - dynamic and lively!
 
 Built using Html , CSS and JavaScript 
 
